@@ -1,4 +1,4 @@
-# RU Hacks 2019
+# TapSync - RU Hacks 2019
 Android App that lets users easily send data using NFC in Networking Settings
 
 # Summary
