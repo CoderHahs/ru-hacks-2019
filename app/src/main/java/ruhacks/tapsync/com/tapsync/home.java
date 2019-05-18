@@ -42,6 +42,8 @@ public class home extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
     }
 
+    break;
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
